@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Camera Product Display</title>
+    <style>
+        /* Basic styling */
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+        }
+        img {
+            max-width: 100%;
+            height: auto;
+        }
+    </style>
+</head>
+<body>
+    <h1>Camera Product Display</h1>
+
+    <div>
+        <img src="camera.jpg" alt="Camera Image">
+    </div>
+
+    <h2>Product Details</h2>
+    <p><strong>Name:</strong> Nikon D850 DSLR Camera</p>
+    <p><strong>Price:</strong> $1234.11</p>
+    <p><strong>Description:</strong> The Nikon D850 is a high-resolution full-frame DSLR camera designed for professional photographers. It features a 45.7-megapixel CMOS sensor, an EXPEED 5 image processor, and a robust weather-sealed body. With its exceptional image quality, fast autofocus, and versatile video capabilities, the D850 is perfect for a wide range of photography applications.</p>
+
+    <h3>Key Features</h3>
+    <ul>
+        <li>45.7-megapixel full-frame CMOS sensor</li>
+        <li>EXPEED 5 image processor</li>
+        <li>Weather-sealed body</li>
+        <li>4K UHD video recording</li>
+        <li>153-point autofocus system</li>
+        <li>Tilting touchscreen LCD</li>
+    </ul>
+
+    <h3>Buy Now</h3>
+    <a href="#" class="buy-button">Add to Cart</a>
+
+    <script>
+        // You can add JavaScript functionality here if needed
+    </script>
+</body>
+</html>
